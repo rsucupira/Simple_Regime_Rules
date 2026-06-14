@@ -13,7 +13,8 @@ Author: **Rodrigo Sucupira Andrade de Carvalho Lima**
 This is an intermediate working draft shared for professional and research discussion purposes.
 The paper has not yet been submitted to SSRN or to an academic journal.
 
-Abstract
+##Abstract
+
 This paper studies whether incremental improvements in a factor investing architecture are better obtained by adding new factor curves and model complexity or by improving portfolio construction through simple regimeconditioned allocation. Using a proprietary U.S. equity research panel, the study evaluates 198 factor curves built
 across 11 sectors, six factor definitions and three portfolio directions. The empirical design compares nine portfolio policies over a common weekly window from 2002-11-04 to 2025-01-13, including a raw alpha Baseline, a robust Hybrid reference, a defensive guard, interpretable regime rules, a supervised Logit selector, smooth sizing
 alternatives and a crash-transition overlay. The main historical finding is that a minimal regime-switching rule, referred to as V3 rule, delivered a stronger risk-adjusted compromise than either the raw Baseline or the Hybrid reference. V3 achieved 22.78% CAGR, 1.777 Sharpe and -14.61% maximum drawdown, compared with 24.36%
@@ -25,7 +26,7 @@ Keywords: factor investing; regime switching; portfolio construction; factor tim
 ## Paper
 
 The current draft is available here:
-
+[Simple Regime Rules, Not More Factors_ A Historical Case Study in Factor-Curve Portfolio Construction.pdf ](https://github.com/rsucupira/Simple_Regime_Rules/blob/main/Simple%20Regime%20Rules%2C%20Not%20More%20Factors_%20A%20Historical%20Case%20Study%20in%20Factor-Curve%20Portfolio%20Construction.pdf)
 
 
 ## Citation
