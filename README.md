@@ -26,8 +26,8 @@ Keywords: factor investing; regime switching; portfolio construction; factor tim
 ## Paper
 
 The current draft is available here:
-[Simple Regime Rules, Not More Factors_ A Historical Case Study in Factor-Curve Portfolio Construction.pdf ](https://github.com/rsucupira/Simple_Regime_Rules/blob/main/Simple%20Regime%20Rules%2C%20Not%20More%20Factors_%20A%20Historical%20Case%20Study%20in%20Factor-Curve%20Portfolio%20Construction.pdf)
 
+[Simple Regime Rules, Not More Factors_ A Historical Case Study in Factor-Curve Portfolio Construction](https://github.com/rsucupira/Simple_Regime_Rules/blob/main/SimpleRegimeRules.pdf)
 
 ## Citation
 
